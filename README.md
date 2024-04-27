@@ -59,7 +59,7 @@ you need to change the following constants within `boot.py`:
 
 The first line configures the GPIO to use for switching. The second
 line configures the application directory names. In fact the names
-don't play a role, but have names reflecting the applications purpose
+don't play a role, but having names reflecting the applications purpose
 helps.
 
 The third line defines all shared toplevel files/directories.
